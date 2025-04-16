@@ -13,6 +13,12 @@ Each task reflects common enterprise-level challenges and includes solutions bas
 
 ---
 
+## 🎯 Objective
+
+The objective of this project is to demonstrate expertise in network security by resolving common network infrastructure security issues, including SSL/TLS certificate errors, securing inbound firewall rules for cloud-based virtual machines, and designing and configuring secure VPN solutions. The project showcases the ability to apply industry-standard encryption protocols and implement security measures to ensure the confidentiality, integrity, and availability of network services.
+
+---
+
 ## ✅ Tasks Performed
 
 ### 🔹 Task 1: Certificate Issue Troubleshooting
@@ -62,6 +68,17 @@ Designed two types of VPNs for secure remote access by employees:
 - **Key Exchange**: SSL/TLS
 
 📄 VPN configuration details: [`vpn_configuration.md`](./vpn_configuration.md)
+
+---
+
+## 🔧 Skills Applied
+
+- SSL/TLS Certificate Validation
+- Cloud Security Configuration (Inbound Rules)
+- VPN Design (Full Tunnel vs Split Tunnel)
+- Port & Protocol Configuration
+- Secure Encryption (256-bit AES, SSL/TLS Key Exchange)
+- Troubleshooting Network Security Issues
 
 ---
 
